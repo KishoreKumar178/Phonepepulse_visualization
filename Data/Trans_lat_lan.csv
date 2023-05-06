@@ -1,0 +1,721 @@
+,Unnamed: 0,state,transaction_count,transaction_vale,year,quarter,state1,"('state1', 'state2')",ST_NM
+0,0,puducherry,104212,165825971.3698361,2018,1,puducherry,['puducherry'],Puducherry
+1,1,tamil nadu,6726622,11261557697.516891,2018,1,tamil,"['tamil', 'nadu']",Tamil Nadu
+2,2,uttar pradesh,12537805,13939970923.2231,2018,1,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+3,3,madhya pradesh,8025395,8681603403.446348,2018,1,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+4,4,andhra pradesh,9039585,11996276391.8237,2018,1,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+5,5,tripura,148157,137978914.5306222,2018,1,tripura,['tripura'],Tripura
+6,6,lakshadweep,778,1928611.1808777405,2018,1,lakshadweep,['lakshadweep'],Lakshadweep
+7,7,manipur,84069,128046173.9302092,2018,1,manipur,['manipur'],Manipur
+8,8,maharashtra,16387034,21711613257.72567,2018,1,maharashtra,['maharashtra'],Maharashtra
+9,9,dadra & nagar haveli & daman & diu,148549,175658384.10921678,2018,1,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+10,10,meghalaya,49571,66250259.78990036,2018,1,meghalaya,['meghalaya'],Meghalaya
+11,11,andaman & nicobar islands,6658,14631761.22198579,2018,1,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+12,12,haryana,4480770,6793511514.660528,2018,1,haryana,['haryana'],Haryana
+13,13,rajasthan,7591690,8926293130.726837,2018,1,rajasthan,['rajasthan'],Rajasthan
+14,14,ladakh,6089,12532857.77111478,2018,1,ladakh,['ladakh'],Ladakh
+15,15,punjab,1870433,2780758224.8543887,2018,1,punjab,['punjab'],Punjab
+16,16,assam,1056881,1157804456.2124689,2018,1,assam,['assam'],Assam
+17,17,jharkhand,2178921,2374186389.9194,2018,1,jharkhand,['jharkhand'],Jharkhand
+18,18,odisha,5809821,4627632210.887628,2018,1,odisha,['odisha'],Odisha
+19,19,bihar,5824302,6045758172.017314,2018,1,bihar,['bihar'],Bihar
+20,20,kerala,1771380,2402674753.100502,2018,1,kerala,['kerala'],Kerala
+21,21,karnataka,12016899,19217895314.0128,2018,1,karnataka,['karnataka'],Karnataka
+22,22,chandigarh,381895,613435420.8676233,2018,1,chandigarh,['chandigarh'],Chandigarh
+23,23,telangana,8522766,13308204118.54243,2018,1,telangana,['telangana'],Telangana
+24,24,himachal pradesh,481918,628737806.3723403,2018,1,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+25,25,west bengal,11710225,10625978552.14045,2018,1,west,"['west', 'bengal']",West Bengal
+26,26,gujarat,5948775,7577982255.034092,2018,1,gujarat,['gujarat'],Gujarat
+27,27,sikkim,44078,64650938.94036835,2018,1,sikkim,['sikkim'],Sikkim
+28,28,nagaland,42845,78005891.08612517,2018,1,nagaland,['nagaland'],Nagaland
+29,29,mizoram,18561,45227219.97579083,2018,1,mizoram,['mizoram'],Mizoram
+30,30,chhattisgarh,1891514,2149155557.236746,2018,1,chhattisgarh,['chhattisgarh'],Chhattisgarh
+31,31,jammu & kashmir,941568,1005371239.25613,2018,1,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+32,32,goa,160897,303856742.3430838,2018,1,goa,['goa'],Goa
+33,33,arunachal pradesh,45497,92387336.00940911,2018,1,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+34,34,delhi,7122754,11211503806.91996,2018,1,delhi,['delhi'],Delhi
+35,35,uttarakhand,1246685,1508545358.523886,2018,1,uttarakhand,['uttarakhand'],Uttarakhand
+36,36,puducherry,130261,285801119.5324367,2018,2,puducherry,['puducherry'],Puducherry
+37,37,tamil nadu,9992128,20125844276.26766,2018,2,tamil,"['tamil', 'nadu']",Tamil Nadu
+38,38,uttar pradesh,17710943,25720201695.70143,2018,2,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+39,39,madhya pradesh,10561412,15924081066.680984,2018,2,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+40,40,andhra pradesh,12353918,22883914272.63361,2018,2,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+41,41,tripura,214559,236891718.7161358,2018,2,tripura,['tripura'],Tripura
+42,42,lakshadweep,2132,6187809.539400538,2018,2,lakshadweep,['lakshadweep'],Lakshadweep
+43,43,manipur,151721,253209721.319494,2018,2,manipur,['manipur'],Manipur
+44,44,maharashtra,22285740,36357057241.122536,2018,2,maharashtra,['maharashtra'],Maharashtra
+45,45,dadra & nagar haveli & daman & diu,202626,302070771.6561514,2018,2,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+46,46,meghalaya,67857,117004667.8418316,2018,2,meghalaya,['meghalaya'],Meghalaya
+47,47,andaman & nicobar islands,11340,28338535.507953543,2018,2,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+48,48,haryana,6150931,11320414442.11666,2018,2,haryana,['haryana'],Haryana
+49,49,rajasthan,9973697,15559086175.75962,2018,2,rajasthan,['rajasthan'],Rajasthan
+50,50,ladakh,15010,47334902.5377415,2018,2,ladakh,['ladakh'],Ladakh
+51,51,punjab,2581163,4684672212.007125,2018,2,punjab,['punjab'],Punjab
+52,52,assam,1663873,2350585135.537811,2018,2,assam,['assam'],Assam
+53,53,jharkhand,3152080,4721575659.062912,2018,2,jharkhand,['jharkhand'],Jharkhand
+54,54,odisha,8158144,8488310339.620239,2018,2,odisha,['odisha'],Odisha
+55,55,bihar,8632378,13506131109.67292,2018,2,bihar,['bihar'],Bihar
+56,56,kerala,2308165,3886923343.4426303,2018,2,kerala,['kerala'],Kerala
+57,57,karnataka,17116447,33515580081.29709,2018,2,karnataka,['karnataka'],Karnataka
+58,58,chandigarh,479084,961223261.74473,2018,2,chandigarh,['chandigarh'],Chandigarh
+59,59,telangana,10764670,23017201517.65273,2018,2,telangana,['telangana'],Telangana
+60,60,himachal pradesh,687695,1183169301.3511171,2018,2,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+61,61,west bengal,18082446,18629183470.20428,2018,2,west,"['west', 'bengal']",West Bengal
+62,62,gujarat,7745733,12162684771.64138,2018,2,gujarat,['gujarat'],Gujarat
+63,63,sikkim,74578,143693085.52979562,2018,2,sikkim,['sikkim'],Sikkim
+64,64,nagaland,65599,153325577.8803017,2018,2,nagaland,['nagaland'],Nagaland
+65,65,mizoram,27051,83508405.55773437,2018,2,mizoram,['mizoram'],Mizoram
+66,66,chhattisgarh,2816156,4264170443.161732,2018,2,chhattisgarh,['chhattisgarh'],Chhattisgarh
+67,67,jammu & kashmir,1796326,2651206236.502893,2018,2,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+68,68,goa,229575,478603825.3586148,2018,2,goa,['goa'],Goa
+69,69,arunachal pradesh,82157,198970192.34204653,2018,2,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+70,70,delhi,9373723,17446299902.20514,2018,2,delhi,['delhi'],Delhi
+71,71,uttarakhand,1704122,2679755378.551076,2018,2,uttarakhand,['uttarakhand'],Uttarakhand
+72,72,puducherry,190271,417658075.49420667,2018,3,puducherry,['puducherry'],Puducherry
+73,73,tamil nadu,15774078,29330092241.184048,2018,3,tamil,"['tamil', 'nadu']",Tamil Nadu
+74,74,uttar pradesh,26515356,37012114369.239365,2018,3,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+75,75,madhya pradesh,17126985,24149742204.67322,2018,3,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+76,76,andhra pradesh,25626061,35718044599.21416,2018,3,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+77,77,tripura,377703,453863388.0405924,2018,3,tripura,['tripura'],Tripura
+78,78,lakshadweep,1703,4339032.3119858485,2018,3,lakshadweep,['lakshadweep'],Lakshadweep
+79,79,manipur,189258,383331244.7941229,2018,3,manipur,['manipur'],Manipur
+80,80,maharashtra,31538538,52260817733.24835,2018,3,maharashtra,['maharashtra'],Maharashtra
+81,81,dadra & nagar haveli & daman & diu,289575,447639595.67817545,2018,3,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+82,82,meghalaya,110290,209853661.534394,2018,3,meghalaya,['meghalaya'],Meghalaya
+83,83,andaman & nicobar islands,16265,55557471.134311125,2018,3,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+84,84,haryana,8262024,16375139007.627962,2018,3,haryana,['haryana'],Haryana
+85,85,rajasthan,14257098,24040768671.21296,2018,3,rajasthan,['rajasthan'],Rajasthan
+86,86,ladakh,24864,84090977.14484604,2018,3,ladakh,['ladakh'],Ladakh
+87,87,punjab,3462108,7065687043.821183,2018,3,punjab,['punjab'],Punjab
+88,88,assam,2351851,3811134989.914264,2018,3,assam,['assam'],Assam
+89,89,jharkhand,8122621,8661571417.704563,2018,3,jharkhand,['jharkhand'],Jharkhand
+90,90,odisha,30052155,23094515775.58576,2018,3,odisha,['odisha'],Odisha
+91,91,bihar,14367804,20135804378.90174,2018,3,bihar,['bihar'],Bihar
+92,92,kerala,3134348,5323025223.875498,2018,3,kerala,['kerala'],Kerala
+93,93,karnataka,25980261,48225091755.80773,2018,3,karnataka,['karnataka'],Karnataka
+94,94,chandigarh,616936,1369354447.5343108,2018,3,chandigarh,['chandigarh'],Chandigarh
+95,95,telangana,19332703,32030093209.72354,2018,3,telangana,['telangana'],Telangana
+96,96,himachal pradesh,886754,1754041432.8580248,2018,3,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+97,97,west bengal,53705416,41843934183.17763,2018,3,west,"['west', 'bengal']",West Bengal
+98,98,gujarat,11334149,17866404426.27552,2018,3,gujarat,['gujarat'],Gujarat
+99,99,sikkim,108500,235080226.9533177,2018,3,sikkim,['sikkim'],Sikkim
+100,100,nagaland,94371,241792742.93665323,2018,3,nagaland,['nagaland'],Nagaland
+101,101,mizoram,39316,116600738.1253902,2018,3,mizoram,['mizoram'],Mizoram
+102,102,chhattisgarh,3859604,6302307073.446348,2018,3,chhattisgarh,['chhattisgarh'],Chhattisgarh
+103,103,jammu & kashmir,2303961,3934700999.457677,2018,3,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+104,104,goa,339511,713166969.2382338,2018,3,goa,['goa'],Goa
+105,105,arunachal pradesh,131146,331726406.7413912,2018,3,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+106,106,delhi,18547048,27375846860.618507,2018,3,delhi,['delhi'],Delhi
+107,107,uttarakhand,2229132,3726573039.858514,2018,3,uttarakhand,['uttarakhand'],Uttarakhand
+108,108,puducherry,307964,625691665.4234949,2018,4,puducherry,['puducherry'],Puducherry
+109,109,tamil nadu,22457444,43302073975.890976,2018,4,tamil,"['tamil', 'nadu']",Tamil Nadu
+110,110,uttar pradesh,36100767,55096743575.91497,2018,4,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+111,111,madhya pradesh,21397555,33905608072.96478,2018,4,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+112,112,andhra pradesh,30759548,51473779406.840416,2018,4,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+113,113,tripura,448059,624885599.4644469,2018,4,tripura,['tripura'],Tripura
+114,114,lakshadweep,1642,4463213.698222831,2018,4,lakshadweep,['lakshadweep'],Lakshadweep
+115,115,manipur,236110,605683559.3060112,2018,4,manipur,['manipur'],Manipur
+116,116,maharashtra,46090223,79518937047.82959,2018,4,maharashtra,['maharashtra'],Maharashtra
+117,117,dadra & nagar haveli & daman & diu,404082,658750616.8008878,2018,4,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+118,118,meghalaya,161132,337585679.0046732,2018,4,meghalaya,['meghalaya'],Meghalaya
+119,119,andaman & nicobar islands,23758,90548336.07445516,2018,4,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+120,120,haryana,12950183,25390876016.45502,2018,4,haryana,['haryana'],Haryana
+121,121,rajasthan,20959723,37909087083.33885,2018,4,rajasthan,['rajasthan'],Rajasthan
+122,122,ladakh,35211,135522842.4926374,2018,4,ladakh,['ladakh'],Ladakh
+123,123,punjab,4887137,10781982573.64962,2018,4,punjab,['punjab'],Punjab
+124,124,assam,3734172,5888022859.01307,2018,4,assam,['assam'],Assam
+125,125,jharkhand,6284043,10241916641.12223,2018,4,jharkhand,['jharkhand'],Jharkhand
+126,126,odisha,21142798,23429869571.55922,2018,4,odisha,['odisha'],Odisha
+127,127,bihar,15732401,28397997168.576237,2018,4,bihar,['bihar'],Bihar
+128,128,kerala,4310654,7747361236.8123,2018,4,kerala,['kerala'],Kerala
+129,129,karnataka,44812071,73008386576.05942,2018,4,karnataka,['karnataka'],Karnataka
+130,130,chandigarh,905116,2032591591.779975,2018,4,chandigarh,['chandigarh'],Chandigarh
+131,131,telangana,28921154,49509088448.04927,2018,4,telangana,['telangana'],Telangana
+132,132,himachal pradesh,1307883,2621298968.139258,2018,4,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+133,133,west bengal,36513548,40489619211.704025,2018,4,west,"['west', 'bengal']",West Bengal
+134,134,gujarat,14733303,24830987102.78186,2018,4,gujarat,['gujarat'],Gujarat
+135,135,sikkim,154533,383141358.0782537,2018,4,sikkim,['sikkim'],Sikkim
+136,136,nagaland,139333,388013467.5456239,2018,4,nagaland,['nagaland'],Nagaland
+137,137,mizoram,55242,190426852.5295295,2018,4,mizoram,['mizoram'],Mizoram
+138,138,chhattisgarh,5365844,9416412664.971258,2018,4,chhattisgarh,['chhattisgarh'],Chhattisgarh
+139,139,jammu & kashmir,2721310,5664720265.697432,2018,4,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+140,140,goa,514755,1153005078.922405,2018,4,goa,['goa'],Goa
+141,141,arunachal pradesh,176429,504040029.09176046,2018,4,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+142,142,delhi,29187719,39722857618.70644,2018,4,delhi,['delhi'],Delhi
+143,143,uttarakhand,3178761,5654272137.963843,2018,4,uttarakhand,['uttarakhand'],Uttarakhand
+144,144,puducherry,501092,906473024.3065232,2019,1,puducherry,['puducherry'],Puducherry
+145,145,tamil nadu,32275045,56204036816.12855,2019,1,tamil,"['tamil', 'nadu']",Tamil Nadu
+146,146,uttar pradesh,57324504,76524180134.0167,2019,1,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+147,147,madhya pradesh,37301049,48070279522.042015,2019,1,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+148,148,andhra pradesh,57264522,83760595917.0792,2019,1,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+149,149,tripura,580926,756894941.6158216,2019,1,tripura,['tripura'],Tripura
+150,150,lakshadweep,2481,8786130.479338994,2019,1,lakshadweep,['lakshadweep'],Lakshadweep
+151,151,manipur,265409,659898060.42408,2019,1,manipur,['manipur'],Manipur
+152,152,maharashtra,75079069,111420690920.3399,2019,1,maharashtra,['maharashtra'],Maharashtra
+153,153,dadra & nagar haveli & daman & diu,661814,843369776.0499003,2019,1,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+154,154,meghalaya,208741,399037162.153436,2019,1,meghalaya,['meghalaya'],Meghalaya
+155,155,andaman & nicobar islands,30486,102299740.6734898,2019,1,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+156,156,haryana,22135775,34051655721.63107,2019,1,haryana,['haryana'],Haryana
+157,157,rajasthan,43956040,61141158575.55251,2019,1,rajasthan,['rajasthan'],Rajasthan
+158,158,ladakh,46145,152859920.94912723,2019,1,ladakh,['ladakh'],Ladakh
+159,159,punjab,7172137,13574490001.853222,2019,1,punjab,['punjab'],Punjab
+160,160,assam,4533005,8002099536.451059,2019,1,assam,['assam'],Assam
+161,161,jharkhand,9387708,13627236449.27803,2019,1,jharkhand,['jharkhand'],Jharkhand
+162,162,odisha,34031942,35427127930.698456,2019,1,odisha,['odisha'],Odisha
+163,163,bihar,26356234,41502827514.52612,2019,1,bihar,['bihar'],Bihar
+164,164,kerala,6469039,10235031134.84978,2019,1,kerala,['kerala'],Kerala
+165,165,karnataka,86587609,117976382145.7496,2019,1,karnataka,['karnataka'],Karnataka
+166,166,chandigarh,1274476,2396032050.444029,2019,1,chandigarh,['chandigarh'],Chandigarh
+167,167,telangana,65290702,95523262035.6632,2019,1,telangana,['telangana'],Telangana
+168,168,himachal pradesh,2168718,3381481442.991081,2019,1,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+169,169,west bengal,47626388,50164672623.8785,2019,1,west,"['west', 'bengal']",West Bengal
+170,170,gujarat,24991451,35856080308.47724,2019,1,gujarat,['gujarat'],Gujarat
+171,171,sikkim,240287,457993634.3840939,2019,1,sikkim,['sikkim'],Sikkim
+172,172,nagaland,168579,441941712.412331,2019,1,nagaland,['nagaland'],Nagaland
+173,173,mizoram,70306,218160895.3974025,2019,1,mizoram,['mizoram'],Mizoram
+174,174,chhattisgarh,7887669,12544556385.32879,2019,1,chhattisgarh,['chhattisgarh'],Chhattisgarh
+175,175,jammu & kashmir,3584987,5951835476.521048,2019,1,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+176,176,goa,738812,1475323397.276577,2019,1,goa,['goa'],Goa
+177,177,arunachal pradesh,226506,609950106.3139492,2019,1,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+178,178,delhi,47007327,58469131789.49733,2019,1,delhi,['delhi'],Delhi
+179,179,uttarakhand,5546001,7183529175.274033,2019,1,uttarakhand,['uttarakhand'],Uttarakhand
+180,180,puducherry,580077,1211446910.127807,2019,2,puducherry,['puducherry'],Puducherry
+181,181,tamil nadu,32171737,64207676025.75552,2019,2,tamil,"['tamil', 'nadu']",Tamil Nadu
+182,182,uttar pradesh,58883500,98917519370.6783,2019,2,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+183,183,madhya pradesh,40846013,68334566380.56182,2019,2,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+184,184,andhra pradesh,56409015,113634518758.2293,2019,2,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+185,185,tripura,532558,841821482.8473747,2019,2,tripura,['tripura'],Tripura
+186,186,lakshadweep,2926,9242524.13698889,2019,2,lakshadweep,['lakshadweep'],Lakshadweep
+187,187,manipur,257425,722789942.1495004,2019,2,manipur,['manipur'],Manipur
+188,188,maharashtra,101149853,153294470088.05942,2019,2,maharashtra,['maharashtra'],Maharashtra
+189,189,dadra & nagar haveli & daman & diu,489656,824441276.56507,2019,2,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+190,190,meghalaya,232286,492931289.1072781,2019,2,meghalaya,['meghalaya'],Meghalaya
+191,191,andaman & nicobar islands,33689,120254709.6756632,2019,2,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+192,192,haryana,22741816,42501539813.21669,2019,2,haryana,['haryana'],Haryana
+193,193,rajasthan,50009286,89107313172.66756,2019,2,rajasthan,['rajasthan'],Rajasthan
+194,194,ladakh,68772,259255506.9974248,2019,2,ladakh,['ladakh'],Ladakh
+195,195,punjab,8509830,18614793394.77221,2019,2,punjab,['punjab'],Punjab
+196,196,assam,5454929,10954969189.12617,2019,2,assam,['assam'],Assam
+197,197,jharkhand,10128211,18622701305.54623,2019,2,jharkhand,['jharkhand'],Jharkhand
+198,198,odisha,29512024,44754854871.67609,2019,2,odisha,['odisha'],Odisha
+199,199,bihar,29960479,63132438283.54397,2019,2,bihar,['bihar'],Bihar
+200,200,kerala,7283826,13031371561.18556,2019,2,kerala,['kerala'],Kerala
+201,201,karnataka,115401604,163702024226.0841,2019,2,karnataka,['karnataka'],Karnataka
+202,202,chandigarh,1252470,2693116098.944455,2019,2,chandigarh,['chandigarh'],Chandigarh
+203,203,telangana,89610379,155676443182.4345,2019,2,telangana,['telangana'],Telangana
+204,204,himachal pradesh,2502306,4875883973.61058,2019,2,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+205,205,west bengal,47023535,57105691119.11844,2019,2,west,"['west', 'bengal']",West Bengal
+206,206,gujarat,28981842,49320615219.26732,2019,2,gujarat,['gujarat'],Gujarat
+207,207,sikkim,388244,738894243.4359412,2019,2,sikkim,['sikkim'],Sikkim
+208,208,nagaland,188753,520066682.1585048,2019,2,nagaland,['nagaland'],Nagaland
+209,209,mizoram,75671,248016708.1350144,2019,2,mizoram,['mizoram'],Mizoram
+210,210,chhattisgarh,9389945,17002355688.82225,2019,2,chhattisgarh,['chhattisgarh'],Chhattisgarh
+211,211,jammu & kashmir,2296355,6100142201.563448,2019,2,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+212,212,goa,768441,1591867103.3876145,2019,2,goa,['goa'],Goa
+213,213,arunachal pradesh,258656,752655874.3550283,2019,2,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+214,214,delhi,57171512,81706816063.62862,2019,2,delhi,['delhi'],Delhi
+215,215,uttarakhand,4813275,8588532850.918488,2019,2,uttarakhand,['uttarakhand'],Uttarakhand
+216,216,puducherry,716826,1460708357.45541,2019,3,puducherry,['puducherry'],Puducherry
+217,217,tamil nadu,41410183,78959604643.63503,2019,3,tamil,"['tamil', 'nadu']",Tamil Nadu
+218,218,uttar pradesh,68623959,111268137475.0284,2019,3,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+219,219,madhya pradesh,53610411,77676321491.22867,2019,3,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+220,220,andhra pradesh,76288614,139447944254.7894,2019,3,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+221,221,tripura,711717,1017377422.817224,2019,3,tripura,['tripura'],Tripura
+222,222,lakshadweep,3104,9651761.463768473,2019,3,lakshadweep,['lakshadweep'],Lakshadweep
+223,223,manipur,345008,863552002.562933,2019,3,manipur,['manipur'],Manipur
+224,224,maharashtra,148735581,199617506744.9427,2019,3,maharashtra,['maharashtra'],Maharashtra
+225,225,dadra & nagar haveli & daman & diu,638751,961471473.8483732,2019,3,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+226,226,meghalaya,306550,612218602.153532,2019,3,meghalaya,['meghalaya'],Meghalaya
+227,227,andaman & nicobar islands,33770,114071776.08729392,2019,3,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+228,228,haryana,30343531,52489119199.44011,2019,3,haryana,['haryana'],Haryana
+229,229,rajasthan,67303617,112468290031.9234,2019,3,rajasthan,['rajasthan'],Rajasthan
+230,230,ladakh,92396,331129527.1938222,2019,3,ladakh,['ladakh'],Ladakh
+231,231,punjab,10706812,22905815605.843307,2019,3,punjab,['punjab'],Punjab
+232,232,assam,5942571,12950443620.42657,2019,3,assam,['assam'],Assam
+233,233,jharkhand,14220647,21465973993.35938,2019,3,jharkhand,['jharkhand'],Jharkhand
+234,234,odisha,41422272,57304577359.21709,2019,3,odisha,['odisha'],Odisha
+235,235,bihar,32139900,67692783254.27383,2019,3,bihar,['bihar'],Bihar
+236,236,kerala,9286096,16429809722.06444,2019,3,kerala,['kerala'],Kerala
+237,237,karnataka,170733735,214536720438.1829,2019,3,karnataka,['karnataka'],Karnataka
+238,238,chandigarh,1506543,3269682087.66084,2019,3,chandigarh,['chandigarh'],Chandigarh
+239,239,telangana,121495376,201930021130.4236,2019,3,telangana,['telangana'],Telangana
+240,240,himachal pradesh,2735180,5572018781.123303,2019,3,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+241,241,west bengal,66444829,70540532616.82985,2019,3,west,"['west', 'bengal']",West Bengal
+242,242,gujarat,38228649,59462694964.26753,2019,3,gujarat,['gujarat'],Gujarat
+243,243,sikkim,552436,884716448.4404289,2019,3,sikkim,['sikkim'],Sikkim
+244,244,nagaland,261878,650956471.7134112,2019,3,nagaland,['nagaland'],Nagaland
+245,245,mizoram,98094,278793899.9513421,2019,3,mizoram,['mizoram'],Mizoram
+246,246,chhattisgarh,12243111,19803259167.45372,2019,3,chhattisgarh,['chhattisgarh'],Chhattisgarh
+247,247,jammu & kashmir,1116526,3744230491.782455,2019,3,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+248,248,goa,1092416,2000367191.496843,2019,3,goa,['goa'],Goa
+249,249,arunachal pradesh,370234,912645034.7958708,2019,3,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+250,250,delhi,69537876,103196812046.45708,2019,3,delhi,['delhi'],Delhi
+251,251,uttarakhand,5710476,9729032070.017405,2019,3,uttarakhand,['uttarakhand'],Uttarakhand
+252,252,puducherry,1012655,1932028317.878899,2019,4,puducherry,['puducherry'],Puducherry
+253,253,tamil nadu,56596411,103190865512.5371,2019,4,tamil,"['tamil', 'nadu']",Tamil Nadu
+254,254,uttar pradesh,86905005,145538926507.3059,2019,4,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+255,255,madhya pradesh,68131989,104687926790.8658,2019,4,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+256,256,andhra pradesh,107218103,200948315488.8051,2019,4,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+257,257,tripura,801824,1215400160.258188,2019,4,tripura,['tripura'],Tripura
+258,258,lakshadweep,3765,11269913.40492385,2019,4,lakshadweep,['lakshadweep'],Lakshadweep
+259,259,manipur,449344,1200897682.088641,2019,4,manipur,['manipur'],Manipur
+260,260,maharashtra,201260620,272994428799.5649,2019,4,maharashtra,['maharashtra'],Maharashtra
+261,261,dadra & nagar haveli & daman & diu,768971,1226641262.01104,2019,4,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+262,262,meghalaya,365981,742436471.7902198,2019,4,meghalaya,['meghalaya'],Meghalaya
+263,263,andaman & nicobar islands,35159,136838530.5173779,2019,4,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+264,264,haryana,37825985,69359719869.10008,2019,4,haryana,['haryana'],Haryana
+265,265,rajasthan,85074242,159452410049.6831,2019,4,rajasthan,['rajasthan'],Rajasthan
+266,266,ladakh,84706,324689360.0281113,2019,4,ladakh,['ladakh'],Ladakh
+267,267,punjab,13698625,29989802246.19331,2019,4,punjab,['punjab'],Punjab
+268,268,assam,6760510,15281983895.512562,2019,4,assam,['assam'],Assam
+269,269,jharkhand,18248618,28147748376.6777,2019,4,jharkhand,['jharkhand'],Jharkhand
+270,270,odisha,64995633,79769373632.04843,2019,4,odisha,['odisha'],Odisha
+271,271,bihar,43530314,93313426577.80904,2019,4,bihar,['bihar'],Bihar
+272,272,kerala,12498637,21151326637.805134,2019,4,kerala,['kerala'],Kerala
+273,273,karnataka,237796252,295047143447.2384,2019,4,karnataka,['karnataka'],Karnataka
+274,274,chandigarh,1850915,4152513817.9393535,2019,4,chandigarh,['chandigarh'],Chandigarh
+275,275,telangana,163572258,280746765547.7425,2019,4,telangana,['telangana'],Telangana
+276,276,himachal pradesh,3516646,7271163537.248161,2019,4,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+277,277,west bengal,96805838,88203610254.64601,2019,4,west,"['west', 'bengal']",West Bengal
+278,278,gujarat,42547632,76690662054.91542,2019,4,gujarat,['gujarat'],Gujarat
+279,279,sikkim,767070,1176509601.656218,2019,4,sikkim,['sikkim'],Sikkim
+280,280,nagaland,317170,834537138.3487777,2019,4,nagaland,['nagaland'],Nagaland
+281,281,mizoram,125239,368689350.6344881,2019,4,mizoram,['mizoram'],Mizoram
+282,282,chhattisgarh,16305758,27143788737.21397,2019,4,chhattisgarh,['chhattisgarh'],Chhattisgarh
+283,283,jammu & kashmir,489928,1929695997.8225973,2019,4,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+284,284,goa,1515272,2923460348.4994645,2019,4,goa,['goa'],Goa
+285,285,arunachal pradesh,459475,1190573179.527283,2019,4,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+286,286,delhi,80744997,129024467424.8906,2019,4,delhi,['delhi'],Delhi
+287,287,uttarakhand,7362116,12573706305.15061,2019,4,uttarakhand,['uttarakhand'],Uttarakhand
+288,288,puducherry,1207921,2205277477.079584,2020,1,puducherry,['puducherry'],Puducherry
+289,289,tamil nadu,66953473,116569686179.4346,2020,1,tamil,"['tamil', 'nadu']",Tamil Nadu
+290,290,uttar pradesh,97239132,172416434960.6903,2020,1,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+291,291,madhya pradesh,79366746,126737281436.1852,2020,1,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+292,292,andhra pradesh,127677357,252737214289.0485,2020,1,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+293,293,tripura,924502,1588778806.388501,2020,1,tripura,['tripura'],Tripura
+294,294,lakshadweep,5151,13502368.574504212,2020,1,lakshadweep,['lakshadweep'],Lakshadweep
+295,295,manipur,818801,2598590380.876947,2020,1,manipur,['manipur'],Manipur
+296,296,maharashtra,238944081,319995196718.0683,2020,1,maharashtra,['maharashtra'],Maharashtra
+297,297,dadra & nagar haveli & daman & diu,878579,1342763369.2925189,2020,1,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+298,298,meghalaya,502283,1120134840.907805,2020,1,meghalaya,['meghalaya'],Meghalaya
+299,299,andaman & nicobar islands,41298,161476312.2972747,2020,1,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+300,300,haryana,44036087,81976214558.24356,2020,1,haryana,['haryana'],Haryana
+301,301,rajasthan,102258812,190308238561.0021,2020,1,rajasthan,['rajasthan'],Rajasthan
+302,302,ladakh,116419,377639677.4457432,2020,1,ladakh,['ladakh'],Ladakh
+303,303,punjab,15217784,31374185265.899647,2020,1,punjab,['punjab'],Punjab
+304,304,assam,8808860,20668428347.72898,2020,1,assam,['assam'],Assam
+305,305,jharkhand,18282713,33611232153.26911,2020,1,jharkhand,['jharkhand'],Jharkhand
+306,306,odisha,53682307,91956798199.3368,2020,1,odisha,['odisha'],Odisha
+307,307,bihar,45081815,109256853527.2452,2020,1,bihar,['bihar'],Bihar
+308,308,kerala,15733522,26451084830.934254,2020,1,kerala,['kerala'],Kerala
+309,309,karnataka,271033890,353402054999.4004,2020,1,karnataka,['karnataka'],Karnataka
+310,310,chandigarh,2262511,5126453070.016205,2020,1,chandigarh,['chandigarh'],Chandigarh
+311,311,telangana,199409525,371343780368.2118,2020,1,telangana,['telangana'],Telangana
+312,312,himachal pradesh,4144480,7419466751.122733,2020,1,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+313,313,west bengal,66250381,96653305190.9406,2020,1,west,"['west', 'bengal']",West Bengal
+314,314,gujarat,47326417,86995076621.9023,2020,1,gujarat,['gujarat'],Gujarat
+315,315,sikkim,528118,1053476271.9444,2020,1,sikkim,['sikkim'],Sikkim
+316,316,nagaland,378051,894780028.7343725,2020,1,nagaland,['nagaland'],Nagaland
+317,317,mizoram,153609,392077579.3496375,2020,1,mizoram,['mizoram'],Mizoram
+318,318,chhattisgarh,19523991,32860597671.35668,2020,1,chhattisgarh,['chhattisgarh'],Chhattisgarh
+319,319,jammu & kashmir,921630,2937643176.534005,2020,1,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+320,320,goa,1881237,3410371231.923764,2020,1,goa,['goa'],Goa
+321,321,arunachal pradesh,567175,1381758681.330147,2020,1,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+322,322,delhi,81747604,133616543642.5894,2020,1,delhi,['delhi'],Delhi
+323,323,uttarakhand,9131784,16158080258.98752,2020,1,uttarakhand,['uttarakhand'],Uttarakhand
+324,324,puducherry,1033383,1960030980.487592,2020,2,puducherry,['puducherry'],Puducherry
+325,325,tamil nadu,51870110,95826508896.84135,2020,2,tamil,"['tamil', 'nadu']",Tamil Nadu
+326,326,uttar pradesh,100851965,178744016130.31213,2020,2,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+327,327,madhya pradesh,76340573,147922015289.0844,2020,2,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+328,328,andhra pradesh,144917855,302583689746.5449,2020,2,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+329,329,tripura,1052520,1769175883.585958,2020,2,tripura,['tripura'],Tripura
+330,330,lakshadweep,7220,16942922.085944388,2020,2,lakshadweep,['lakshadweep'],Lakshadweep
+331,331,manipur,1083068,3198936212.805524,2020,2,manipur,['manipur'],Manipur
+332,332,maharashtra,184790761,296359517159.4161,2020,2,maharashtra,['maharashtra'],Maharashtra
+333,333,dadra & nagar haveli & daman & diu,973152,1302376453.8880572,2020,2,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+334,334,meghalaya,635395,1153735154.338391,2020,2,meghalaya,['meghalaya'],Meghalaya
+335,335,andaman & nicobar islands,62962,169645001.414147,2020,2,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+336,336,haryana,41781050,80711264923.94525,2020,2,haryana,['haryana'],Haryana
+337,337,rajasthan,101954656,193763273003.2828,2020,2,rajasthan,['rajasthan'],Rajasthan
+338,338,ladakh,155010,523792998.6520229,2020,2,ladakh,['ladakh'],Ladakh
+339,339,punjab,14081294,30284654252.213337,2020,2,punjab,['punjab'],Punjab
+340,340,assam,10505199,19766300125.919266,2020,2,assam,['assam'],Assam
+341,341,jharkhand,20141511,37486201975.92341,2020,2,jharkhand,['jharkhand'],Jharkhand
+342,342,odisha,50028576,91733036612.10583,2020,2,odisha,['odisha'],Odisha
+343,343,bihar,53386742,128806523628.8528,2020,2,bihar,['bihar'],Bihar
+344,344,kerala,16287967,25894078478.599957,2020,2,kerala,['kerala'],Kerala
+345,345,karnataka,213221712,321104877020.1418,2020,2,karnataka,['karnataka'],Karnataka
+346,346,chandigarh,1528010,3847015729.690074,2020,2,chandigarh,['chandigarh'],Chandigarh
+347,347,telangana,152055143,321531839352.4224,2020,2,telangana,['telangana'],Telangana
+348,348,himachal pradesh,4695730,8036904762.544065,2020,2,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+349,349,west bengal,57676797,100099431877.3575,2020,2,west,"['west', 'bengal']",West Bengal
+350,350,gujarat,47420185,80387846359.49455,2020,2,gujarat,['gujarat'],Gujarat
+351,351,sikkim,517731,1054618788.261265,2020,2,sikkim,['sikkim'],Sikkim
+352,352,nagaland,517566,1137674504.347801,2020,2,nagaland,['nagaland'],Nagaland
+353,353,mizoram,198462,457193433.4423174,2020,2,mizoram,['mizoram'],Mizoram
+354,354,chhattisgarh,18820925,32268382206.90089,2020,2,chhattisgarh,['chhattisgarh'],Chhattisgarh
+355,355,jammu & kashmir,2635006,8265648939.258666,2020,2,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+356,356,goa,1482092,2183616430.016773,2020,2,goa,['goa'],Goa
+357,357,arunachal pradesh,808774,1826716832.98496,2020,2,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+358,358,delhi,66042018,107873438203.3316,2020,2,delhi,['delhi'],Delhi
+359,359,uttarakhand,9047770,16094187702.10098,2020,2,uttarakhand,['uttarakhand'],Uttarakhand
+360,360,puducherry,1730902,3598080229.434597,2020,3,puducherry,['puducherry'],Puducherry
+361,361,tamil nadu,70277825,143841415498.6574,2020,3,tamil,"['tamil', 'nadu']",Tamil Nadu
+362,362,uttar pradesh,127405259,248689955423.0532,2020,3,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+363,363,madhya pradesh,108579881,205701679984.53757,2020,3,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+364,364,andhra pradesh,204902935,467084130584.9388,2020,3,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+365,365,tripura,1317885,2341819516.215885,2020,3,tripura,['tripura'],Tripura
+366,366,lakshadweep,8589,21306833.30865682,2020,3,lakshadweep,['lakshadweep'],Lakshadweep
+367,367,manipur,1420168,4615976120.870485,2020,3,manipur,['manipur'],Manipur
+368,368,maharashtra,268310924,440307079012.4761,2020,3,maharashtra,['maharashtra'],Maharashtra
+369,369,dadra & nagar haveli & daman & diu,1138312,1749789114.9993591,2020,3,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+370,370,meghalaya,597579,1237059001.383036,2020,3,meghalaya,['meghalaya'],Meghalaya
+371,371,andaman & nicobar islands,117483,338019446.3303601,2020,3,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+372,372,haryana,57938179,109567950445.72871,2020,3,haryana,['haryana'],Haryana
+373,373,rajasthan,149088676,293678306162.4698,2020,3,rajasthan,['rajasthan'],Rajasthan
+374,374,ladakh,228222,835487500.0581931,2020,3,ladakh,['ladakh'],Ladakh
+375,375,punjab,17209573,40123092147.81354,2020,3,punjab,['punjab'],Punjab
+376,376,assam,12397711,29831391259.54384,2020,3,assam,['assam'],Assam
+377,377,jharkhand,27068473,50622615820.01348,2020,3,jharkhand,['jharkhand'],Jharkhand
+378,378,odisha,66033829,122463943804.2919,2020,3,odisha,['odisha'],Odisha
+379,379,bihar,71503748,173328865111.8144,2020,3,bihar,['bihar'],Bihar
+380,380,kerala,21758680,40164150651.95372,2020,3,kerala,['kerala'],Kerala
+381,381,karnataka,300360531,470740515696.69446,2020,3,karnataka,['karnataka'],Karnataka
+382,382,chandigarh,2158086,5089809353.36507,2020,3,chandigarh,['chandigarh'],Chandigarh
+383,383,telangana,236372126,505961144755.88354,2020,3,telangana,['telangana'],Telangana
+384,384,himachal pradesh,5489876,10516054014.0869,2020,3,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+385,385,west bengal,79954504,156813355855.1383,2020,3,west,"['west', 'bengal']",West Bengal
+386,386,gujarat,59290179,111921752484.7093,2020,3,gujarat,['gujarat'],Gujarat
+387,387,sikkim,596435,1400926728.660399,2020,3,sikkim,['sikkim'],Sikkim
+388,388,nagaland,736319,2009649143.1547935,2020,3,nagaland,['nagaland'],Nagaland
+389,389,mizoram,254703,707944175.5046022,2020,3,mizoram,['mizoram'],Mizoram
+390,390,chhattisgarh,24148539,41526744807.53401,2020,3,chhattisgarh,['chhattisgarh'],Chhattisgarh
+391,391,jammu & kashmir,3465898,11977229760.87236,2020,3,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+392,392,goa,1915531,3368343580.9446573,2020,3,goa,['goa'],Goa
+393,393,arunachal pradesh,962827,2609938565.55822,2020,3,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+394,394,delhi,96491861,175163962804.6604,2020,3,delhi,['delhi'],Delhi
+395,395,uttarakhand,11818935,22103510968.00645,2020,3,uttarakhand,['uttarakhand'],Uttarakhand
+396,396,puducherry,2716003,4930526217.671206,2020,4,puducherry,['puducherry'],Puducherry
+397,397,tamil nadu,111179701,206473197500.9926,2020,4,tamil,"['tamil', 'nadu']",Tamil Nadu
+398,398,uttar pradesh,178167517,357428826778.2578,2020,4,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+399,399,madhya pradesh,153652541,284275139772.3589,2020,4,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+400,400,andhra pradesh,286118552,654841546033.3186,2020,4,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+401,401,tripura,1651890,3182130996.221311,2020,4,tripura,['tripura'],Tripura
+402,402,lakshadweep,11650,30111317.91708038,2020,4,lakshadweep,['lakshadweep'],Lakshadweep
+403,403,manipur,1627852,5602224558.458768,2020,4,manipur,['manipur'],Manipur
+404,404,maharashtra,407621004,622155530832.2584,2020,4,maharashtra,['maharashtra'],Maharashtra
+405,405,dadra & nagar haveli & daman & diu,1817791,2700511100.828503,2020,4,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+406,406,meghalaya,754008,1804242572.198972,2020,4,meghalaya,['meghalaya'],Meghalaya
+407,407,andaman & nicobar islands,224531,627282656.3148524,2020,4,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+408,408,haryana,83171439,159998504366.53958,2020,4,haryana,['haryana'],Haryana
+409,409,rajasthan,190283435,386034779836.4837,2020,4,rajasthan,['rajasthan'],Rajasthan
+410,410,ladakh,332134,1111963470.5079591,2020,4,ladakh,['ladakh'],Ladakh
+411,411,punjab,22997925,53775406479.55389,2020,4,punjab,['punjab'],Punjab
+412,412,assam,15423454,40226611319.26375,2020,4,assam,['assam'],Assam
+413,413,jharkhand,39431633,72805174830.04245,2020,4,jharkhand,['jharkhand'],Jharkhand
+414,414,odisha,92324950,178302663014.6175,2020,4,odisha,['odisha'],Odisha
+415,415,bihar,96591673,238905613136.47177,2020,4,bihar,['bihar'],Bihar
+416,416,kerala,33288187,56755256647.01179,2020,4,kerala,['kerala'],Kerala
+417,417,karnataka,431536984,658036698565.0033,2020,4,karnataka,['karnataka'],Karnataka
+418,418,chandigarh,2912716,6146762901.349345,2020,4,chandigarh,['chandigarh'],Chandigarh
+419,419,telangana,343643787,696350439226.9453,2020,4,telangana,['telangana'],Telangana
+420,420,himachal pradesh,7272328,13989053108.81301,2020,4,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+421,421,west bengal,100340645,199165491365.6468,2020,4,west,"['west', 'bengal']",West Bengal
+422,422,gujarat,77828547,148393060112.4366,2020,4,gujarat,['gujarat'],Gujarat
+423,423,sikkim,735035,1919275805.122922,2020,4,sikkim,['sikkim'],Sikkim
+424,424,nagaland,847825,2773084870.5627007,2020,4,nagaland,['nagaland'],Nagaland
+425,425,mizoram,322607,986522115.6939572,2020,4,mizoram,['mizoram'],Mizoram
+426,426,chhattisgarh,35529636,62214974283.94806,2020,4,chhattisgarh,['chhattisgarh'],Chhattisgarh
+427,427,jammu & kashmir,5754444,15380905803.378222,2020,4,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+428,428,goa,3801381,6899792747.579928,2020,4,goa,['goa'],Goa
+429,429,arunachal pradesh,1209129,3570264021.8456182,2020,4,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+430,430,delhi,120540417,216265088224.5436,2020,4,delhi,['delhi'],Delhi
+431,431,uttarakhand,17613271,31792739329.11008,2020,4,uttarakhand,['uttarakhand'],Uttarakhand
+432,432,puducherry,3309432,5899309571.743642,2021,1,puducherry,['puducherry'],Puducherry
+433,433,tamil nadu,136556674,248668143873.6531,2021,1,tamil,"['tamil', 'nadu']",Tamil Nadu
+434,434,uttar pradesh,204499547,396287587577.5575,2021,1,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+435,435,madhya pradesh,201998498,343533954382.3015,2021,1,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+436,436,andhra pradesh,289747970,672444670176.5881,2021,1,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+437,437,tripura,1511423,3335341569.793424,2021,1,tripura,['tripura'],Tripura
+438,438,lakshadweep,9085,27042782.91408115,2021,1,lakshadweep,['lakshadweep'],Lakshadweep
+439,439,manipur,2303535,7070287514.479243,2021,1,manipur,['manipur'],Manipur
+440,440,maharashtra,517860240,769887352153.2483,2021,1,maharashtra,['maharashtra'],Maharashtra
+441,441,dadra & nagar haveli & daman & diu,1925244,2965632911.193504,2021,1,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+442,442,meghalaya,747646,2055515277.989834,2021,1,meghalaya,['meghalaya'],Meghalaya
+443,443,andaman & nicobar islands,244752,783706567.3897561,2021,1,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+444,444,haryana,90252784,168938301082.4288,2021,1,haryana,['haryana'],Haryana
+445,445,rajasthan,252730919,491492581657.6335,2021,1,rajasthan,['rajasthan'],Rajasthan
+446,446,ladakh,275415,983419813.2468786,2021,1,ladakh,['ladakh'],Ladakh
+447,447,punjab,26770835,58690887091.10673,2021,1,punjab,['punjab'],Punjab
+448,448,assam,19512060,51326464546.12218,2021,1,assam,['assam'],Assam
+449,449,jharkhand,44621663,83749353123.13823,2021,1,jharkhand,['jharkhand'],Jharkhand
+450,450,odisha,111460358,213397736188.33783,2021,1,odisha,['odisha'],Odisha
+451,451,bihar,114932477,280973649701.2259,2021,1,bihar,['bihar'],Bihar
+452,452,kerala,42316342,69260970161.89497,2021,1,kerala,['kerala'],Kerala
+453,453,karnataka,523797492,754995357412.3948,2021,1,karnataka,['karnataka'],Karnataka
+454,454,chandigarh,3970237,7596420859.545994,2021,1,chandigarh,['chandigarh'],Chandigarh
+455,455,telangana,412572110,799359264046.5657,2021,1,telangana,['telangana'],Telangana
+456,456,himachal pradesh,7614029,14120546909.48754,2021,1,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+457,457,west bengal,118254052,242937207475.51974,2021,1,west,"['west', 'bengal']",West Bengal
+458,458,gujarat,94774565,183700780713.4496,2021,1,gujarat,['gujarat'],Gujarat
+459,459,sikkim,800189,2217667726.840728,2021,1,sikkim,['sikkim'],Sikkim
+460,460,nagaland,975897,3107450484.613187,2021,1,nagaland,['nagaland'],Nagaland
+461,461,mizoram,329575,1101105586.945936,2021,1,mizoram,['mizoram'],Mizoram
+462,462,chhattisgarh,39436437,69409843261.55008,2021,1,chhattisgarh,['chhattisgarh'],Chhattisgarh
+463,463,jammu & kashmir,6997570,17138349893.15179,2021,1,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+464,464,goa,5331549,9757242879.021433,2021,1,goa,['goa'],Goa
+465,465,arunachal pradesh,1177456,3813779079.016643,2021,1,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+466,466,delhi,157359004,266928345043.49225,2021,1,delhi,['delhi'],Delhi
+467,467,uttarakhand,20608402,36288189399.89833,2021,1,uttarakhand,['uttarakhand'],Uttarakhand
+468,468,puducherry,3751387,6498834696.543897,2021,2,puducherry,['puducherry'],Puducherry
+469,469,tamil nadu,146158442,263487341026.54623,2021,2,tamil,"['tamil', 'nadu']",Tamil Nadu
+470,470,uttar pradesh,241949131,482172489166.39343,2021,2,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+471,471,madhya pradesh,223314680,425500768035.631,2021,2,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+472,472,andhra pradesh,352767134,850737499108.2987,2021,2,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+473,473,tripura,1744429,3468154361.036266,2021,2,tripura,['tripura'],Tripura
+474,474,lakshadweep,11384,27383463.657951534,2021,2,lakshadweep,['lakshadweep'],Lakshadweep
+475,475,manipur,3086275,7889827962.396657,2021,2,manipur,['manipur'],Manipur
+476,476,maharashtra,573616486,915115055623.7152,2021,2,maharashtra,['maharashtra'],Maharashtra
+477,477,dadra & nagar haveli & daman & diu,2125083,3157668461.418905,2021,2,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+478,478,meghalaya,909594,2193617254.890591,2021,2,meghalaya,['meghalaya'],Meghalaya
+479,479,andaman & nicobar islands,341414,899147016.1122956,2021,2,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+480,480,haryana,105680856,200357354238.6818,2021,2,haryana,['haryana'],Haryana
+481,481,rajasthan,287477039,561702765169.2324,2021,2,rajasthan,['rajasthan'],Rajasthan
+482,482,ladakh,399716,1427259095.4703171,2021,2,ladakh,['ladakh'],Ladakh
+483,483,punjab,32171248,69531058562.6159,2021,2,punjab,['punjab'],Punjab
+484,484,assam,25432905,59192473376.66449,2021,2,assam,['assam'],Assam
+485,485,jharkhand,54002145,104432643311.45728,2021,2,jharkhand,['jharkhand'],Jharkhand
+486,486,odisha,131824337,245864117477.27853,2021,2,odisha,['odisha'],Odisha
+487,487,bihar,155603622,374580255186.5887,2021,2,bihar,['bihar'],Bihar
+488,488,kerala,47191033,74226806436.15614,2021,2,kerala,['kerala'],Kerala
+489,489,karnataka,530649046,837887151230.051,2021,2,karnataka,['karnataka'],Karnataka
+490,490,chandigarh,4417547,8417673939.936099,2021,2,chandigarh,['chandigarh'],Chandigarh
+491,491,telangana,495867544,1027958332797.59,2021,2,telangana,['telangana'],Telangana
+492,492,himachal pradesh,9483902,16495634539.80926,2021,2,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+493,493,west bengal,141897437,279434811058.5615,2021,2,west,"['west', 'bengal']",West Bengal
+494,494,gujarat,111841396,210162054552.1156,2021,2,gujarat,['gujarat'],Gujarat
+495,495,sikkim,976714,2424899579.6753,2021,2,sikkim,['sikkim'],Sikkim
+496,496,nagaland,1130791,3156293963.781851,2021,2,nagaland,['nagaland'],Nagaland
+497,497,mizoram,394340,1122874473.3020911,2021,2,mizoram,['mizoram'],Mizoram
+498,498,chhattisgarh,44689420,78728771259.22594,2021,2,chhattisgarh,['chhattisgarh'],Chhattisgarh
+499,499,jammu & kashmir,10027819,22813755428.591618,2021,2,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+500,500,goa,4710135,8012853587.075998,2021,2,goa,['goa'],Goa
+501,501,arunachal pradesh,1568338,4456425616.994377,2021,2,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+502,502,delhi,170157264,281941097684.5416,2021,2,delhi,['delhi'],Delhi
+503,503,uttarakhand,24000432,40990817874.83847,2021,2,uttarakhand,['uttarakhand'],Uttarakhand
+504,504,puducherry,5121726,8729974431.014471,2021,3,puducherry,['puducherry'],Puducherry
+505,505,tamil nadu,204357404,365207323053.9273,2021,3,tamil,"['tamil', 'nadu']",Tamil Nadu
+506,506,uttar pradesh,306543384,557080841279.8989,2021,3,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+507,507,madhya pradesh,311443334,504412603851.49896,2021,3,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+508,508,andhra pradesh,432032550,984218035564.122,2021,3,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+509,509,tripura,2081200,4364133768.181473,2021,3,tripura,['tripura'],Tripura
+510,510,lakshadweep,13370,38803163.69876816,2021,3,lakshadweep,['lakshadweep'],Lakshadweep
+511,511,manipur,3941396,10406861028.90489,2021,3,manipur,['manipur'],Manipur
+512,512,maharashtra,792874060,1159257305167.4512,2021,3,maharashtra,['maharashtra'],Maharashtra
+513,513,dadra & nagar haveli & daman & diu,3129470,4305939102.791508,2021,3,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+514,514,meghalaya,1097731,2769000451.527979,2021,3,meghalaya,['meghalaya'],Meghalaya
+515,515,andaman & nicobar islands,449764,1310024395.8016028,2021,3,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+516,516,haryana,140459693,240827092259.20688,2021,3,haryana,['haryana'],Haryana
+517,517,rajasthan,400284753,710511328542.4896,2021,3,rajasthan,['rajasthan'],Rajasthan
+518,518,ladakh,590987,2213984743.93459,2021,3,ladakh,['ladakh'],Ladakh
+519,519,punjab,42533489,85992560840.61221,2021,3,punjab,['punjab'],Punjab
+520,520,assam,33504441,75700499273.30748,2021,3,assam,['assam'],Assam
+521,521,jharkhand,70795702,121891015118.8533,2021,3,jharkhand,['jharkhand'],Jharkhand
+522,522,odisha,177362674,303780718933.0267,2021,3,odisha,['odisha'],Odisha
+523,523,bihar,187671113,397062760956.3983,2021,3,bihar,['bihar'],Bihar
+524,524,kerala,63028266,101686161773.1289,2021,3,kerala,['kerala'],Kerala
+525,525,karnataka,753296539,1133234739157.598,2021,3,karnataka,['karnataka'],Karnataka
+526,526,chandigarh,6649378,11815883004.6933,2021,3,chandigarh,['chandigarh'],Chandigarh
+527,527,telangana,622886768,1178289126292.262,2021,3,telangana,['telangana'],Telangana
+528,528,himachal pradesh,12064167,21310262071.12815,2021,3,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+529,529,west bengal,181712988,362457066256.5059,2021,3,west,"['west', 'bengal']",West Bengal
+530,530,gujarat,149248407,272624626113.5876,2021,3,gujarat,['gujarat'],Gujarat
+531,531,sikkim,1160594,2989336863.8083954,2021,3,sikkim,['sikkim'],Sikkim
+532,532,nagaland,1356792,3987416848.005447,2021,3,nagaland,['nagaland'],Nagaland
+533,533,mizoram,478529,1473748650.2119522,2021,3,mizoram,['mizoram'],Mizoram
+534,534,chhattisgarh,64237938,104606108262.7759,2021,3,chhattisgarh,['chhattisgarh'],Chhattisgarh
+535,535,jammu & kashmir,13151041,31598443648.03224,2021,3,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+536,536,goa,6467763,10478425592.93636,2021,3,goa,['goa'],Goa
+537,537,arunachal pradesh,1906967,5678124175.298816,2021,3,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+538,538,delhi,238760608,383858316548.281,2021,3,delhi,['delhi'],Delhi
+539,539,uttarakhand,31042284,50527496783.56469,2021,3,uttarakhand,['uttarakhand'],Uttarakhand
+540,540,puducherry,6368810,10423651801.230509,2021,4,puducherry,['puducherry'],Puducherry
+541,541,tamil nadu,259155976,443723952594.794,2021,4,tamil,"['tamil', 'nadu']",Tamil Nadu
+542,542,uttar pradesh,406157932,773890970072.1896,2021,4,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+543,543,madhya pradesh,404308084,656887492404.479,2021,4,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+544,544,andhra pradesh,522254003,1156264447083.922,2021,4,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+545,545,tripura,2520693,5496929464.299448,2021,4,tripura,['tripura'],Tripura
+546,546,lakshadweep,15470,50998185.528381,2021,4,lakshadweep,['lakshadweep'],Lakshadweep
+547,547,manipur,4687439,12658472038.21185,2021,4,manipur,['manipur'],Manipur
+548,548,maharashtra,1010731502,1475358473128.29,2021,4,maharashtra,['maharashtra'],Maharashtra
+549,549,dadra & nagar haveli & daman & diu,4157085,5565839386.330668,2021,4,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+550,550,meghalaya,1440193,3848765400.186149,2021,4,meghalaya,['meghalaya'],Meghalaya
+551,551,andaman & nicobar islands,636123,1932610101.3236551,2021,4,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+552,552,haryana,169686975,309240599300.4638,2021,4,haryana,['haryana'],Haryana
+553,553,rajasthan,487621597,903934418544.2668,2021,4,rajasthan,['rajasthan'],Rajasthan
+554,554,ladakh,630187,2153535138.7802672,2021,4,ladakh,['ladakh'],Ladakh
+555,555,punjab,52359360,110710126241.9995,2021,4,punjab,['punjab'],Punjab
+556,556,assam,46020361,104184967893.2159,2021,4,assam,['assam'],Assam
+557,557,jharkhand,96009042,166017119003.7058,2021,4,jharkhand,['jharkhand'],Jharkhand
+558,558,odisha,233925366,385251049689.9184,2021,4,odisha,['odisha'],Odisha
+559,559,bihar,245126945,519371614068.7477,2021,4,bihar,['bihar'],Bihar
+560,560,kerala,81823741,123342136943.3639,2021,4,kerala,['kerala'],Kerala
+561,561,karnataka,931725438,1375471324349.877,2021,4,karnataka,['karnataka'],Karnataka
+562,562,chandigarh,7898903,14373583510.61845,2021,4,chandigarh,['chandigarh'],Chandigarh
+563,563,telangana,775989773,1463758189500.914,2021,4,telangana,['telangana'],Telangana
+564,564,himachal pradesh,14666864,26136220500.625923,2021,4,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+565,565,west bengal,225029560,462218037262.097,2021,4,west,"['west', 'bengal']",West Bengal
+566,566,gujarat,182987325,342382580053.6272,2021,4,gujarat,['gujarat'],Gujarat
+567,567,sikkim,1584345,4196783261.635804,2021,4,sikkim,['sikkim'],Sikkim
+568,568,nagaland,1631483,4939083784.136465,2021,4,nagaland,['nagaland'],Nagaland
+569,569,mizoram,553329,1770665741.52304,2021,4,mizoram,['mizoram'],Mizoram
+570,570,chhattisgarh,84717494,136399110518.8138,2021,4,chhattisgarh,['chhattisgarh'],Chhattisgarh
+571,571,jammu & kashmir,16790628,38926237425.771454,2021,4,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+572,572,goa,11088759,18627257115.86965,2021,4,goa,['goa'],Goa
+573,573,arunachal pradesh,2390598,6943510352.611342,2021,4,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+574,574,delhi,292683359,488695314062.3906,2021,4,delhi,['delhi'],Delhi
+575,575,uttarakhand,40361280,66148108159.42219,2021,4,uttarakhand,['uttarakhand'],Uttarakhand
+576,576,puducherry,7359176,12083474905.38665,2022,1,puducherry,['puducherry'],Puducherry
+577,577,tamil nadu,294573150,512789201600.6159,2022,1,tamil,"['tamil', 'nadu']",Tamil Nadu
+578,578,uttar pradesh,473953246,883123174117.039,2022,1,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+579,579,madhya pradesh,472703058,747665139599.6421,2022,1,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+580,580,andhra pradesh,582603911,1294320646554.862,2022,1,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+581,581,tripura,2871190,6247329764.349836,2022,1,tripura,['tripura'],Tripura
+582,582,lakshadweep,16397,54939432.65393007,2022,1,lakshadweep,['lakshadweep'],Lakshadweep
+583,583,manipur,5313679,14144501078.37381,2022,1,manipur,['manipur'],Manipur
+584,584,maharashtra,1169506438,1681399273981.1611,2022,1,maharashtra,['maharashtra'],Maharashtra
+585,585,dadra & nagar haveli & daman & diu,4802803,6237048367.262389,2022,1,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+586,586,meghalaya,1674750,4662338331.331881,2022,1,meghalaya,['meghalaya'],Meghalaya
+587,587,andaman & nicobar islands,794748,2129030202.0751665,2022,1,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+588,588,haryana,191988609,341304042652.7812,2022,1,haryana,['haryana'],Haryana
+589,589,rajasthan,564962220,1022050180980.136,2022,1,rajasthan,['rajasthan'],Rajasthan
+590,590,ladakh,630015,2025040918.842209,2022,1,ladakh,['ladakh'],Ladakh
+591,591,punjab,57758302,118389978105.9623,2022,1,punjab,['punjab'],Punjab
+592,592,assam,58889886,132280437892.7025,2022,1,assam,['assam'],Assam
+593,593,jharkhand,110911210,194700207087.169,2022,1,jharkhand,['jharkhand'],Jharkhand
+594,594,odisha,263633499,451227311779.7898,2022,1,odisha,['odisha'],Odisha
+595,595,bihar,284390434,611411695731.1454,2022,1,bihar,['bihar'],Bihar
+596,596,kerala,95280965,139988942464.6946,2022,1,kerala,['kerala'],Kerala
+597,597,karnataka,1057855407,1566649488305.883,2022,1,karnataka,['karnataka'],Karnataka
+598,598,chandigarh,8600491,15174991549.84,2022,1,chandigarh,['chandigarh'],Chandigarh
+599,599,telangana,886453385,1670638169828.9993,2022,1,telangana,['telangana'],Telangana
+600,600,himachal pradesh,16088180,26518447439.93272,2022,1,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+601,601,west bengal,260505092,551426663209.5653,2022,1,west,"['west', 'bengal']",West Bengal
+602,602,gujarat,210547146,392548092253.5477,2022,1,gujarat,['gujarat'],Gujarat
+603,603,sikkim,1744302,4367431275.863419,2022,1,sikkim,['sikkim'],Sikkim
+604,604,nagaland,1925952,5544951708.895753,2022,1,nagaland,['nagaland'],Nagaland
+605,605,mizoram,604917,1945158963.611247,2022,1,mizoram,['mizoram'],Mizoram
+606,606,chhattisgarh,97413292,157847045454.8349,2022,1,chhattisgarh,['chhattisgarh'],Chhattisgarh
+607,607,jammu & kashmir,16245311,33147863626.15883,2022,1,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+608,608,goa,12214098,19816445402.846123,2022,1,goa,['goa'],Goa
+609,609,arunachal pradesh,2804068,7828091628.087357,2022,1,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+610,610,delhi,330999861,536964920836.2893,2022,1,delhi,['delhi'],Delhi
+611,611,uttarakhand,44560772,70978782500.07388,2022,1,uttarakhand,['uttarakhand'],Uttarakhand
+612,612,puducherry,8643687,13778745255.768888,2022,2,puducherry,['puducherry'],Puducherry
+613,613,tamil nadu,354506937,590134727678.3616,2022,2,tamil,"['tamil', 'nadu']",Tamil Nadu
+614,614,uttar pradesh,595298776,1067515182419.962,2022,2,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+615,615,madhya pradesh,544899829,867024737328.533,2022,2,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+616,616,andhra pradesh,671134030,1479853948202.9192,2022,2,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+617,617,tripura,3418664,6878271042.035296,2022,2,tripura,['tripura'],Tripura
+618,618,lakshadweep,17569,55929601.98990567,2022,2,lakshadweep,['lakshadweep'],Lakshadweep
+619,619,manipur,6105632,14922910635.14932,2022,2,manipur,['manipur'],Manipur
+620,620,maharashtra,1407533113,2006272382175.94,2022,2,maharashtra,['maharashtra'],Maharashtra
+621,621,dadra & nagar haveli & daman & diu,5759771,6995159780.810846,2022,2,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+622,622,meghalaya,2044649,5281491421.884784,2022,2,meghalaya,['meghalaya'],Meghalaya
+623,623,andaman & nicobar islands,1071217,2685920350.0802674,2022,2,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+624,624,haryana,234699962,395234035249.5022,2022,2,haryana,['haryana'],Haryana
+625,625,rajasthan,661170150,1152833518600.342,2022,2,rajasthan,['rajasthan'],Rajasthan
+626,626,ladakh,1118073,3543318177.996266,2022,2,ladakh,['ladakh'],Ladakh
+627,627,punjab,72272823,137345426369.2266,2022,2,punjab,['punjab'],Punjab
+628,628,assam,76334725,153111042086.782,2022,2,assam,['assam'],Assam
+629,629,jharkhand,132925275,225636227828.1376,2022,2,jharkhand,['jharkhand'],Jharkhand
+630,630,odisha,313451598,510035012340.0088,2022,2,odisha,['odisha'],Odisha
+631,631,bihar,360145029,754461454966.1152,2022,2,bihar,['bihar'],Bihar
+632,632,kerala,106365322,154696329549.125,2022,2,kerala,['kerala'],Kerala
+633,633,karnataka,1277448960,1867146114059.213,2022,2,karnataka,['karnataka'],Karnataka
+634,634,chandigarh,10772489,17283500158.371,2022,2,chandigarh,['chandigarh'],Chandigarh
+635,635,telangana,1063382557,1951414544517.106,2022,2,telangana,['telangana'],Telangana
+636,636,himachal pradesh,21291371,33709107958.24223,2022,2,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+637,637,west bengal,315742141,648575179584.2422,2022,2,west,"['west', 'bengal']",West Bengal
+638,638,gujarat,252052796,446798000976.8379,2022,2,gujarat,['gujarat'],Gujarat
+639,639,sikkim,2322081,5611105670.307129,2022,2,sikkim,['sikkim'],Sikkim
+640,640,nagaland,2031329,5740285349.020275,2022,2,nagaland,['nagaland'],Nagaland
+641,641,mizoram,643977,2003186567.108938,2022,2,mizoram,['mizoram'],Mizoram
+642,642,chhattisgarh,116584048,181181677163.7799,2022,2,chhattisgarh,['chhattisgarh'],Chhattisgarh
+643,643,jammu & kashmir,23813747,46254290836.63583,2022,2,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+644,644,goa,14216054,22873037759.520218,2022,2,goa,['goa'],Goa
+645,645,arunachal pradesh,3556925,9131665374.225872,2022,2,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+646,646,delhi,410634184,629855650458.2181,2022,2,delhi,['delhi'],Delhi
+647,647,uttarakhand,58166878,88313371025.334,2022,2,uttarakhand,['uttarakhand'],Uttarakhand
+648,648,puducherry,7042727,10854317711.14094,2022,3,puducherry,['puducherry'],Puducherry
+649,649,tamil nadu,393496175,631879220373.2378,2022,3,tamil,"['tamil', 'nadu']",Tamil Nadu
+650,650,uttar pradesh,703589072,1121370050898.721,2022,3,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+651,651,madhya pradesh,731259559,1032908494249.583,2022,3,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+652,652,andhra pradesh,642855035,1385077409712.075,2022,3,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+653,653,tripura,4256579,8648352804.91115,2022,3,tripura,['tripura'],Tripura
+654,654,lakshadweep,15241,47580009.61750026,2022,3,lakshadweep,['lakshadweep'],Lakshadweep
+655,655,manipur,6352742,15381430267.299772,2022,3,manipur,['manipur'],Manipur
+656,656,maharashtra,1486389417,1947579187374.532,2022,3,maharashtra,['maharashtra'],Maharashtra
+657,657,dadra & nagar haveli & daman & diu,6465621,7520647359.499438,2022,3,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+658,658,meghalaya,4359165,9603300797.121542,2022,3,meghalaya,['meghalaya'],Meghalaya
+659,659,andaman & nicobar islands,1584379,3310631772.137388,2022,3,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+660,660,haryana,269361810,428054494578.0213,2022,3,haryana,['haryana'],Haryana
+661,661,rajasthan,767541360,1238489256318.217,2022,3,rajasthan,['rajasthan'],Rajasthan
+662,662,ladakh,1190858,3605199350.373912,2022,3,ladakh,['ladakh'],Ladakh
+663,663,punjab,84177897,149319443006.3546,2022,3,punjab,['punjab'],Punjab
+664,664,assam,86113811,161489079054.898,2022,3,assam,['assam'],Assam
+665,665,jharkhand,146815332,229412884063.9563,2022,3,jharkhand,['jharkhand'],Jharkhand
+666,666,odisha,386687326,564545557340.5428,2022,3,odisha,['odisha'],Odisha
+667,667,bihar,437367385,791446486557.8687,2022,3,bihar,['bihar'],Bihar
+668,668,kerala,119362904,162260419315.4297,2022,3,kerala,['kerala'],Kerala
+669,669,karnataka,1189761328,1665918232610.94,2022,3,karnataka,['karnataka'],Karnataka
+670,670,chandigarh,13478173,20559757737.40586,2022,3,chandigarh,['chandigarh'],Chandigarh
+671,671,telangana,1628165401,2706325865752.064,2022,3,telangana,['telangana'],Telangana
+672,672,himachal pradesh,25164868,37380782688.54074,2022,3,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+673,673,west bengal,356792388,704749898612.1294,2022,3,west,"['west', 'bengal']",West Bengal
+674,674,gujarat,303239732,497437502209.4429,2022,3,gujarat,['gujarat'],Gujarat
+675,675,sikkim,2396758,5162880543.891459,2022,3,sikkim,['sikkim'],Sikkim
+676,676,nagaland,1894113,5364400495.050829,2022,3,nagaland,['nagaland'],Nagaland
+677,677,mizoram,659038,1946265612.067956,2022,3,mizoram,['mizoram'],Mizoram
+678,678,chhattisgarh,158252587,220161558081.9853,2022,3,chhattisgarh,['chhattisgarh'],Chhattisgarh
+679,679,jammu & kashmir,22534394,40963554502.24847,2022,3,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+680,680,goa,13188687,19574265275.706352,2022,3,goa,['goa'],Goa
+681,681,arunachal pradesh,3939418,9025110785.048618,2022,3,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+682,682,delhi,475592161,677612647116.1133,2022,3,delhi,['delhi'],Delhi
+683,683,uttarakhand,63996519,92641259938.36333,2022,3,uttarakhand,['uttarakhand'],Uttarakhand
+684,684,puducherry,7556127,11142204877.17449,2022,4,puducherry,['puducherry'],Puducherry
+685,685,tamil nadu,436316636,675689667591.437,2022,4,tamil,"['tamil', 'nadu']",Tamil Nadu
+686,686,uttar pradesh,836369071,1376378802069.4849,2022,4,uttar,"['uttar', 'pradesh']",Uttar Pradesh
+687,687,madhya pradesh,898828268,1302999857548.291,2022,4,madhya,"['madhya', 'pradesh']",Madhya Pradesh
+688,688,andhra pradesh,690017077,1424725083041.687,2022,4,andhra,"['andhra', 'pradesh']",Andhra Pradesh
+689,689,tripura,5198190,10452971818.15408,2022,4,tripura,['tripura'],Tripura
+690,690,lakshadweep,17147,54813873.61493625,2022,4,lakshadweep,['lakshadweep'],Lakshadweep
+691,691,manipur,6428670,15625956698.34149,2022,4,manipur,['manipur'],Manipur
+692,692,maharashtra,1688775272,2210470839617.1724,2022,4,maharashtra,['maharashtra'],Maharashtra
+693,693,dadra & nagar haveli & daman & diu,7189585,8059640746.081127,2022,4,dadra,"['dadra', '& nagar haveli & daman & diu']",Dadra and Nagar Haveli and Daman and Diu
+694,694,meghalaya,3932448,8996541156.348711,2022,4,meghalaya,['meghalaya'],Meghalaya
+695,695,andaman & nicobar islands,1987535,3984674404.428784,2022,4,andaman,"['andaman', '& nicobar islands']",Andaman & Nicobar
+696,696,haryana,296648365,490490659880.1024,2022,4,haryana,['haryana'],Haryana
+697,697,rajasthan,865574848,1456956699398.652,2022,4,rajasthan,['rajasthan'],Rajasthan
+698,698,ladakh,1083372,2894477572.678937,2022,4,ladakh,['ladakh'],Ladakh
+699,699,punjab,91835180,168107427177.94022,2022,4,punjab,['punjab'],Punjab
+700,700,assam,103981267,192653519187.548,2022,4,assam,['assam'],Assam
+701,701,jharkhand,175300092,277971737448.5812,2022,4,jharkhand,['jharkhand'],Jharkhand
+702,702,odisha,445714743,652217064523.9851,2022,4,odisha,['odisha'],Odisha
+703,703,bihar,517084649,936012149674.828,2022,4,bihar,['bihar'],Bihar
+704,704,kerala,132960468,173559808599.71002,2022,4,kerala,['kerala'],Kerala
+705,705,karnataka,1378910371,1904516622907.6309,2022,4,karnataka,['karnataka'],Karnataka
+706,706,chandigarh,17904840,27879754566.93941,2022,4,chandigarh,['chandigarh'],Chandigarh
+707,707,telangana,1819506832,2978252562916.136,2022,4,telangana,['telangana'],Telangana
+708,708,himachal pradesh,28555136,41779343232.37363,2022,4,himachal,"['himachal', 'pradesh']",Himachal Pradesh
+709,709,west bengal,405847597,787775633607.2479,2022,4,west,"['west', 'bengal']",West Bengal
+710,710,gujarat,341156018,567918305336.5343,2022,4,gujarat,['gujarat'],Gujarat
+711,711,sikkim,3058339,6458385389.419817,2022,4,sikkim,['sikkim'],Sikkim
+712,712,nagaland,2476205,6969966384.314047,2022,4,nagaland,['nagaland'],Nagaland
+713,713,mizoram,693774,2037911085.263013,2022,4,mizoram,['mizoram'],Mizoram
+714,714,chhattisgarh,177960446,252519180810.4745,2022,4,chhattisgarh,['chhattisgarh'],Chhattisgarh
+715,715,jammu & kashmir,27316158,44315295915.49408,2022,4,jammu,"['jammu', '& kashmir']",Jammu & Kashmir
+716,716,goa,17192674,24924986371.339134,2022,4,goa,['goa'],Goa
+717,717,arunachal pradesh,4632709,9684909697.502245,2022,4,arunachal,"['arunachal', 'pradesh']",Arunachal Pradesh
+718,718,delhi,515203457,744915016018.5759,2022,4,delhi,['delhi'],Delhi
+719,719,uttarakhand,77983880,115496046831.3588,2022,4,uttarakhand,['uttarakhand'],Uttarakhand

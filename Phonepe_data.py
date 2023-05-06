@@ -32,6 +32,8 @@ map_users_data_district = pd.DataFrame({})
 india_users_brand_data = pd.DataFrame({})
 topstates_transaction = pd.DataFrame({})
 toppincodes_transaction = pd.DataFrame({})
+topstates_user = pd.DataFrame({})
+toppincodes_user = pd.DataFrame({})
 
 
 a = os.listdir(t_p)
@@ -136,7 +138,7 @@ def Top10_pincodes(year,quarter,path):
         row_data = {"pincodes":i["entityName"], "count":i['metric']["count"], "amount": i['metric']["amount"],"year":year, "quarter":quarter}
         top_10_pincodes = top_10_pincodes.append(row_data, ignore_index = True) 
 
-def Topstates(state,year,quarter,path):
+def Topstates_trans(state,year,quarter,path):
     global topstates_transaction
     global toppincodes_transaction
     df = pd.read_json(path)
@@ -169,6 +171,17 @@ def Top10_pincodes_user(year,quarter,path):
     for i in df.data.pincodes:
         row_data = {"pincodes":i["name"], "Registeredusers":i["registeredUsers"],"year":year, "quarter":quarter}
         top_10_pincodes_user = top_10_pincodes_user.append(row_data, ignore_index = True)  
+
+def Topstates_user(state,year,quarter,path):
+    global topstates_user
+    global toppincodes_user
+    df = pd.read_json(path)
+    for i in df.data.districts:
+        row_data = {"state":state,"district":i["name"], "Registeredusers":i["registeredUsers"],"year":year, "quarter":quarter}
+        topstates_user = topstates_user.append(row_data, ignore_index = True)
+    for j in df.data.pincodes:
+        row_data = {"state":state,"pincodes":j["name"], "Registeredusers":j["registeredUsers"],"year":year, "quarter":quarter}
+        toppincodes_user = toppincodes_user.append(row_data, ignore_index = True)
 
 list1 = os.listdir(r"D:\Git\pulse\data\top\transaction\country\india")
 for i in range(len(list1)-1):
@@ -232,11 +245,13 @@ for i in A:
                 for l in quarter:
                     s_path = map_t_p +"\\"+i+"\\"+j+"\\"+k+"\\"+l
                     u_path = map_u_p +"\\"+i+"\\"+j+"\\"+k+"\\"+l
-                    TT_path = (r"D:\Git\pulse\data\top\transaction\country") + "\\"+i+"\\"+j+"\\"+k+"\\"+l
+                    TT_path = (r"D:\Git\pulse\data\top\transaction\country\india") + "\\"+i+"\\"+j+"\\"+k+"\\"+l
+                    UT_path = (r"D:\Git\pulse\data\top\user\country\india") + "\\"+i+"\\"+j+"\\"+k+"\\"+l
                     m = path.Path(s_path).stem
                     map_transaction_district(j,k,m,s_path)
                     map_user_data_district(j,k,m,u_path)
-                    Topstates(j,k,m,TT_path)
+                    Topstates_trans(j,k,m,TT_path)
+                    Topstates_user(j,k,m,UT_path)
 
 #storing dataframes in sql database
 engine = create_engine("mysql+pymysql://{user}:{pw}@localhost/{db}"
@@ -256,6 +271,13 @@ map_transactions_district.to_sql("map_transactions_district", con = engine, if_e
 map_users_data_state.to_sql("map_users_data_state", con = engine, if_exists="append", chunksize = 1000)
 map_users_data_district.to_sql("map_users_data_districts", con = engine, if_exists="append", chunksize = 1000)
 india_users_brand_data.to_sql("india_users_brand_data", con = engine, if_exists="append", chunksize = 1000)
+top_10_states_user.to_sql("top_10_states_user", con = engine, if_exists="append", chunksize = 1000)
+top_10_districts_user.to_sql("top_10_districts_user", con = engine, if_exists="append", chunksize = 1000)
+top_10_pincodes_user.to_sql("top_10_pincodes_user", con = engine, if_exists="append", chunksize = 1000)
+topstates_transaction.to_sql("topstates_transaction", con = engine, if_exists="append", chunksize = 1000)
+toppincodes_transaction.to_sql("toppincodes_transaction", con = engine, if_exists="append", chunksize = 1000)
+topstates_user.to_sql("topstates_user", con = engine, if_exists="append", chunksize = 1000)
+toppincodes_user.to_sql("toppincodes_user", con = engine, if_exists="append", chunksize = 1000)
 
 print(india_transactions_data)
 print(india_users_data)
