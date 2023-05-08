@@ -35,7 +35,7 @@ toppincodes_transaction = pd.DataFrame({})
 topstates_user = pd.DataFrame({})
 toppincodes_user = pd.DataFrame({})
 
-
+# Define the function to store data in pandas DF
 a = os.listdir(t_p)
 country = os.listdir(u_p)
 def transaction_data (state, year, quarter, path):
@@ -54,7 +54,7 @@ def india_transaction_data (year, quarter):
                 "amount":value["paymentInstruments"][0]["amount"], "year": year, "quarter":quarter}
         india_transactions_data = india_transactions_data.append(row_data, ignore_index = True)
 
-
+# To call the function
 for i in a:
     b = os.listdir(t_p+"\\"+i)
     for j in b:
@@ -63,8 +63,6 @@ for i in a:
             T_path = t_p+"\\"+i+"\\"+j+"\\"+k
             l = path.Path(T_path).stem
             transaction_data (i,j,l,T_path)
-            
-
 
 def User_Data (state,year,quarter,path):
     global Users_data
@@ -278,11 +276,3 @@ topstates_transaction.to_sql("topstates_transaction", con = engine, if_exists="a
 toppincodes_transaction.to_sql("toppincodes_transaction", con = engine, if_exists="append", chunksize = 1000)
 topstates_user.to_sql("topstates_user", con = engine, if_exists="append", chunksize = 1000)
 toppincodes_user.to_sql("toppincodes_user", con = engine, if_exists="append", chunksize = 1000)
-
-print(india_transactions_data)
-print(india_users_data)
-print(Users_data)
-print(Users_brand_data)
-print(top_10_states)
-print(top_10_districts)
-print(top_10_pincodes)
