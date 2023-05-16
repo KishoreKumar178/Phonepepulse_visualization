@@ -97,6 +97,7 @@ if parameter == "Transactions":
     fig_ch.update_layout(margin=dict(l=60, r=60, t=50, b=50))
     fig_ch.add_trace( fig.data[0])
     fig_ch.add_trace( fig1.data[0])
+
     col1, col2 = st.columns(2)
     with col1:
         st.plotly_chart(fig_ch, use_container_width= True)
@@ -269,7 +270,8 @@ with tab1:
           df.columns = title
           df["new_year"] = df["year"] + "Q"+ df["quarter"]
           fig= px.bar(df, x="Name", y="amount", color="Name",
-          animation_frame="new_year", animation_group="Name", range_y=[0,700000000000], 
+          animation_frame="new_year", animation_group="Name",
+          range_y=[0,700000000000], 
           labels={"Name": "Transaction Mode","amount":"Transaction Value","new_year":"Year"},
           title= "Transaction mode vs Transaction value over time")
           st.plotly_chart(fig)
@@ -478,7 +480,7 @@ with tab3:
        labels={"district":"Districts", "new_year": "year", "appopens": "Appopens"},title="Districtwise appopening trend")
     st.plotly_chart(fig)
    
- #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@Top10Data@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   
+ #@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@ Top10Data @@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@   
     
 st.header(":blue[Top 10 Data]")
 tab1, tab2= st.tabs(["overall","State"])

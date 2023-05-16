@@ -2,9 +2,7 @@
 import pandas as pd
 import os
 from sqlalchemy import create_engine
-import plotly.express as px
 import pathlib as path
-import pymysql
 import warnings
 warnings.filterwarnings("ignore")
 #path for the data
@@ -43,7 +41,8 @@ def transaction_data (state, year, quarter, path):
     data = pd.read_json(path)
     for value in data.data.transactionData:
         row_data = {"Name":value["name"], "count": value["paymentInstruments"][0]["count"], 
-                "amount":value["paymentInstruments"][0]["amount"], "state": state, "year": year, "quarter":quarter}
+                "amount":value["paymentInstruments"][0]["amount"], "state": state, "year": year, 
+                "quarter":quarter}
         transactions_data = transactions_data.append(row_data, ignore_index = True)
 
 def india_transaction_data (year, quarter):
@@ -51,7 +50,8 @@ def india_transaction_data (year, quarter):
     data = pd.read_json(r"D:\Git\pulse\data\aggregated\transaction\country\india"+"\\"+year+"\\"+quarter+".json")
     for value in data.data.transactionData:
         row_data = {"Name":value["name"], "count": value["paymentInstruments"][0]["count"], 
-                "amount":value["paymentInstruments"][0]["amount"], "year": year, "quarter":quarter}
+                "amount":value["paymentInstruments"][0]["amount"], "year": year, 
+                "quarter":quarter}
         india_transactions_data = india_transactions_data.append(row_data, ignore_index = True)
 
 # To call the function
@@ -119,21 +119,27 @@ def Top10_states(year,quarter,path):
     global top_10_states
     df = pd.read_json(path)
     for i in df.data.states:
-        row_data = {"state":i["entityName"], "count":i['metric']["count"], "amount": i['metric']["amount"],"year":year, "quarter":quarter}
+        row_data = {"state":i["entityName"], "count":i['metric']["count"], 
+                    "amount": i['metric']["amount"],"year":year, 
+                    "quarter":quarter}
         top_10_states = top_10_states.append(row_data, ignore_index = True)
 
 def Top10_districts(year,quarter,path):
     global top_10_districts
     df = pd.read_json(path)
     for i in df.data.districts:
-        row_data = {"districts":i["entityName"], "count":i['metric']["count"], "amount": i['metric']["amount"],"year":year, "quarter":quarter}
+        row_data = {"districts":i["entityName"], "count":i['metric']["count"], 
+                    "amount": i['metric']["amount"],"year":year, 
+                    "quarter":quarter}
         top_10_districts = top_10_districts.append(row_data, ignore_index = True)
 
 def Top10_pincodes(year,quarter,path):
     global top_10_pincodes
     df = pd.read_json(path)
     for i in df.data.pincodes:
-        row_data = {"pincodes":i["entityName"], "count":i['metric']["count"], "amount": i['metric']["amount"],"year":year, "quarter":quarter}
+        row_data = {"pincodes":i["entityName"], "count":i['metric']["count"], 
+                    "amount": i['metric']["amount"],"year":year, 
+                    "quarter":quarter}
         top_10_pincodes = top_10_pincodes.append(row_data, ignore_index = True) 
 
 def Topstates_trans(state,year,quarter,path):
@@ -153,21 +159,24 @@ def Top10_states_user(year,quarter,path):
     global top_10_states_user
     df = pd.read_json(path)
     for i in df.data.states:
-        row_data = {"state":i["name"], "Registeredusers":i["registeredUsers"],"year":year, "quarter":quarter}
+        row_data = {"state":i["name"], "Registeredusers":i["registeredUsers"],
+                    "year":year, "quarter":quarter}
         top_10_states_user = top_10_states_user.append(row_data, ignore_index = True)
 
 def Top10_districts_user(year,quarter,path):
     global top_10_districts_user
     df = pd.read_json(path)
     for i in df.data.districts:
-        row_data = {"districts":i["name"], "Registeredusers":i["registeredUsers"],"year":year, "quarter":quarter}
+        row_data = {"districts":i["name"], "Registeredusers":i["registeredUsers"],
+                    "year":year, "quarter":quarter}
         top_10_districts_user = top_10_districts_user.append(row_data, ignore_index = True)
 
 def Top10_pincodes_user(year,quarter,path):
     global top_10_pincodes_user
     df = pd.read_json(path)
     for i in df.data.pincodes:
-        row_data = {"pincodes":i["name"], "Registeredusers":i["registeredUsers"],"year":year, "quarter":quarter}
+        row_data = {"pincodes":i["name"], "Registeredusers":i["registeredUsers"],
+                    "year":year, "quarter":quarter}
         top_10_pincodes_user = top_10_pincodes_user.append(row_data, ignore_index = True)  
 
 def Topstates_user(state,year,quarter,path):
@@ -175,10 +184,14 @@ def Topstates_user(state,year,quarter,path):
     global toppincodes_user
     df = pd.read_json(path)
     for i in df.data.districts:
-        row_data = {"state":state,"district":i["name"], "Registeredusers":i["registeredUsers"],"year":year, "quarter":quarter}
+        row_data = {"state":state,"district":i["name"], 
+                    "Registeredusers":i["registeredUsers"],"year":year, 
+                    "quarter":quarter}
         topstates_user = topstates_user.append(row_data, ignore_index = True)
     for j in df.data.pincodes:
-        row_data = {"state":state,"pincodes":j["name"], "Registeredusers":j["registeredUsers"],"year":year, "quarter":quarter}
+        row_data = {"state":state,"pincodes":j["name"], 
+                    "Registeredusers":j["registeredUsers"], "year":year, 
+                    "quarter":quarter}
         toppincodes_user = toppincodes_user.append(row_data, ignore_index = True)
 
 list1 = os.listdir(r"D:\Git\pulse\data\top\transaction\country\india")
@@ -202,14 +215,20 @@ def map_transaction_state(year,quarter,path):
     global map_transactions_state
     data = pd.read_json(path)
     for i in data["data"]["hoverDataList"]:
-        row_data = {"state":i["name"], "transaction_count":i["metric"][0]["count"], "transaction_vale": i["metric"][0]["amount"], "year": year, "quarter": quarter}
+        row_data = {"state":i["name"], "transaction_count":i["metric"][0]["count"], 
+                    "transaction_vale": i["metric"][0]["amount"], "year": year, 
+                    "quarter": quarter}
         map_transactions_state = map_transactions_state.append(row_data, ignore_index = True)
+
 def map_transaction_district(state,year,quarter,path):
     global map_transactions_district
     data = pd.read_json(path)
     for i in data["data"]["hoverDataList"]:
-        row_data = {"state":state, "district":i["name"], "transaction_count":i["metric"][0]["count"], "transaction_vale": i["metric"][0]["amount"], "year": year, "quarter": quarter}
+        row_data = {"state":state, "district":i["name"], 
+                    "transaction_count":i["metric"][0]["count"], "transaction_vale": i["metric"][0]["amount"], 
+                    "year": year, "quarter": quarter}
         map_transactions_district = map_transactions_district.append(row_data, ignore_index = True)
+
 def map_user_data_state(year,quarter,path):
     global map_users_data_state
     data = pd.read_json(path)
@@ -217,6 +236,7 @@ def map_user_data_state(year,quarter,path):
         row_data = {"state":i, "registered_users":data["data"]["hoverData"][i]['registeredUsers'], 
                     "appopens": data["data"]["hoverData"][i]["appOpens"], "year": year, "quarter": quarter}
         map_users_data_state = map_users_data_state.append(row_data, ignore_index = True)
+
 def map_user_data_district(state,year,quarter,path):
     global map_users_data_district
     data = pd.read_json(path)
@@ -224,6 +244,7 @@ def map_user_data_district(state,year,quarter,path):
         row_data = {"state":state,"district":i, "registered_users":data["data"]["hoverData"][i]['registeredUsers'], 
                     "appopens": data["data"]["hoverData"][i]["appOpens"], "year": year, "quarter": quarter}
         map_users_data_district = map_users_data_district.append(row_data, ignore_index = True)
+
 A = os.listdir(map_t_p)
 for i in A:
     if i != 'state':
