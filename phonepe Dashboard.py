@@ -376,27 +376,30 @@ with tab1:
         u_year = st.selectbox("Select the year", (2018,2019,2020,2021,2022), key= 9)
     with col2:
         u_quarter = st.selectbox("Select the quarter",(1,2,3,4),key = 10)
-    df = cursor.execute("SELECT * FROM india_users_brand_data where year= {} and quarter= {} ".format(u_year,u_quarter))
-    output = cursor.fetchall()
-    df = pd.DataFrame(output)
-    title = [i[0] for i in cursor.description]
-    df.columns = title
-    value = df["count"]
-    lable = df["Brand"]
-    fig1 = go.Figure(data=[go.Pie(labels=lable, values=value, hole=.5, title= "Brand Transaction Count")])
-    fig1.update_traces(textposition='outside', textinfo='percent+label')
-    st.plotly_chart(fig1)
-    df = cursor.execute("SELECT * FROM user_data where year= {} and quarter= {}".format(u_year,u_quarter))
-    output = cursor.fetchall()
-    df = pd.DataFrame(output)
-    title = [i[0] for i in cursor.description]
-    df.columns = title
-    fig = px.bar(df, x = "state", y="RegisterdUsers", color="state",width=1000, height=800 ,
-                 labels={"state":"State","RegisterdUsers":"Registered Users"}, 
-                 title= "Statewise Registered Users", hover_data=['appOpens'])
-    fig.update_layout(xaxis_tickangle=-45)
-    fig.update_layout(uniformtext_minsize=10)
-    st.plotly_chart(fig)
+    try:
+      df = cursor.execute("SELECT * FROM india_users_brand_data where year= {} and quarter= {} ".format(u_year,u_quarter))
+      output = cursor.fetchall()
+      df = pd.DataFrame(output)
+      title = [i[0] for i in cursor.description]
+      df.columns = title
+      value = df["count"]
+      lable = df["Brand"]
+      fig1 = go.Figure(data=[go.Pie(labels=lable, values=value, hole=.5, title= "Brand Transaction Count")])
+      fig1.update_traces(textposition='outside', textinfo='percent+label')
+      st.plotly_chart(fig1)
+      df = cursor.execute("SELECT * FROM user_data where year= {} and quarter= {}".format(u_year,u_quarter))
+      output = cursor.fetchall()
+      df = pd.DataFrame(output)
+      title = [i[0] for i in cursor.description]
+      df.columns = title
+      fig = px.bar(df, x = "state", y="RegisterdUsers", color="state",width=1000, height=800 ,
+                   labels={"state":"State","RegisterdUsers":"Registered Users"}, 
+                   title= "Statewise Registered Users", hover_data=['appOpens'])
+      fig.update_layout(xaxis_tickangle=-45)
+      fig.update_layout(uniformtext_minsize=10)
+      st.plotly_chart(fig)
+    except:
+      st.error('Sorry! Data not available right now!', icon="🚨")
 # creating statewise user data
 with tab2:
     col1, col2, col3 = st.columns(3)
