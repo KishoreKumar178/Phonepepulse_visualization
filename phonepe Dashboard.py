@@ -80,7 +80,7 @@ if parameter == "Transactions":
     df = cursor.execute('''SELECT transaction_count, transaction_vale,ST_NM
                         from map_transaction_state
                         left join india_state_lat_lon on india_state_lat_lon.state = map_transaction_state.state
-                        where year = 2018 and quarter = 1''')
+                        where year = {} and quarter = {}'''.format(year,quarter))
     output = cursor.fetchall()
     df = pd.DataFrame(output)
     title = ["Total Transactions","Transaction Value", "ST_NM"]
@@ -160,7 +160,7 @@ elif parameter == "Users":
     df = cursor.execute('''SELECT registered_users, ST_NM
                         from map_users_data_state
                         left join india_state_lat_lon on india_state_lat_lon.state =  map_users_data_state.state1
-                        where year = 2018 and quarter = 1''')
+                        where year = {} and quarter = {}'''.format(year,quarter))
     output = cursor.fetchall()
     df = pd.DataFrame(output)
     title = ["Total Users","ST_NM"]
